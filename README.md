@@ -7,4 +7,3 @@ Activity 2: Screenshot of merging develop to main in local and pushing main to g
 
 ![image](https://github.com/Ultare1717/ECE444-F2023-Assignment1/assets/67229334/801ba34f-c0a8-4d17-ac32-e087bb8f56ca)
 
-
