@@ -13,3 +13,10 @@ Activity 3: Screenshot of Resolving Pull Request and Merging it:
 
 ![image](https://github.com/Ultare1717/ECE444-F2023-Assignment1/assets/67229334/c7869904-41a0-4df3-9739-da85edccd33a)
 
+Activity 4: utils.py and utils_test.py commits 
+
+![image](https://github.com/Ultare1717/ECE444-F2023-Assignment1/assets/67229334/4baad5de-0312-4903-aa2e-86917eaa3f06)
+
+![image](https://github.com/Ultare1717/ECE444-F2023-Assignment1/assets/67229334/3046dbc2-d85f-417f-8a32-ca55e033e8a3)
+
+
