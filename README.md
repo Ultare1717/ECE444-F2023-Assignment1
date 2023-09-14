@@ -19,4 +19,13 @@ Activity 4: utils.py and utils_test.py commits
 
 ![image](https://github.com/Ultare1717/ECE444-F2023-Assignment1/assets/67229334/3046dbc2-d85f-417f-8a32-ca55e033e8a3)
 
+Activity 5: git rebase activity
+
+First git rebase develop used on rebase branch:
+![image](https://github.com/Ultare1717/ECE444-F2023-Assignment1/assets/67229334/3cba0f74-f4b0-44dc-9a22-f5f13ebf6ea1)
+
+Then git rebase rebase used on develop branch to get develop branch in desired order:
+![image](https://github.com/Ultare1717/ECE444-F2023-Assignment1/assets/67229334/9c292d93-c77a-4245-8da8-e2566599dc0f)
+
+
 
